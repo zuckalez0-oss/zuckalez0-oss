@@ -14,15 +14,15 @@ Gosto de transformar problemas manuais e repetitivos em sistemas mais eficientes
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=z1p0l0ck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zuckalez0-oss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1p0l0ck&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuckalez0-oss&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=z1p0l0ck&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
 
 </div>
 
