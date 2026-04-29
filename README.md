@@ -1,89 +1,161 @@
-# Olá, eu sou Matheus Ribeiro (z1p0l0ck)! 👋
+# Olá, eu sou Matheus Ribeiro 👋
 
-## 🚀 Estudante de Engenharia de Software | Foco em Backend
+## 🚀 Estudante de Engenharia de Software | Backend Developer em Formação
 
-Sou um desenvolvedor em formação com foco em **backend**, apaixonado por construir soluções que realmente resolvem problemas — principalmente quando envolvem **automação, eficiência e integração de sistemas**.
+Sou um desenvolvedor em formação com foco em **backend**, apaixonado por construir soluções que resolvem problemas reais por meio de **automação, integração de sistemas e desenvolvimento de APIs**.
 
-Atualmente, estou aprofundando meus estudos em **Java com Spring Boot**, trabalhando com **APIs RESTful**, **JPA** e persistência de dados utilizando **bancos relacionais e não relacionais**. Ao mesmo tempo, utilizo **Python** no dia a dia para criar automações que eliminam tarefas repetitivas e otimizam fluxos de trabalho.
+Atualmente, estou aprofundando meus estudos em **Java com Spring Boot**, trabalhando com **APIs RESTful**, **JPA/Hibernate**, persistência de dados e arquitetura de aplicações. Também utilizo **Python** para automações, manipulação de dados, integração com APIs e otimização de fluxos operacionais.
 
-Gosto de colocar a mão na massa: tudo que aprendo, eu tento aplicar em projetos reais.
+Gosto de transformar problemas manuais e repetitivos em sistemas mais eficientes, organizados e escaláveis.
 
 ---
 
-## 🧠 Minha forma de trabalhar
+## 📊 GitHub Status
 
-Acredito que tecnologia boa é aquela que **economiza tempo e evita dor de cabeça**.
+<div align="center">
 
-Por isso, sigo dois caminhos principais:
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=z1p0l0ck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-- ☕ **Backend com Java (Spring Boot)**  
-  Construção de APIs, organização de código, boas práticas (SOLID) e estruturação de sistemas que sejam fáceis de manter e evoluir.
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1p0l0ck&layout=compact&langs_count=8&theme=tokyonight"/>
 
-- 🐍 **Automação com Python**  
-  Se algo é repetitivo, eu automatizo. Seja leitura de dados, integração com APIs, manipulação de planilhas ou uso de IA — o objetivo é sempre ganhar eficiência.
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=z1p0l0ck&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🧠 Sobre minha forma de trabalhar
+
+Acredito que tecnologia boa é aquela que **economiza tempo, reduz erros e facilita processos**.
+
+Meu foco atual está dividido em dois caminhos principais:
+
+### ☕ Backend com Java e Spring Boot
+
+- Desenvolvimento de APIs RESTful
+- Organização de código em camadas
+- Boas práticas com SOLID
+- JPA/Hibernate
+- Banco de dados relacional
+- Estruturação de sistemas escaláveis e de fácil manutenção
+
+### 🐍 Automação com Python
+
+- Manipulação de planilhas e arquivos
+- Integração com APIs
+- Leitura e tratamento de dados
+- Automação de tarefas repetitivas
+- Uso de IA para acelerar processos operacionais
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-### 📊 Dashboard Financeiro Inteligente (IA + OCR)
-Uma aplicação voltada para controle de gastos de forma automatizada.
+### 📊 Dashboard Financeiro Inteligente com IA + OCR
 
-- **Problema:** controlar despesas manualmente é chato e demorado  
-- **Solução:** leitura de comprovantes com **OCR + IA**, extraindo e organizando os dados automaticamente  
-- **Stack:** Python, Streamlit, Pandas, APIs de IA  
+Aplicação voltada para controle financeiro automatizado, com leitura inteligente de comprovantes.
+
+**Problema:**  
+Controlar despesas manualmente é demorado, repetitivo e sujeito a erros.
+
+**Solução:**  
+Sistema capaz de ler comprovantes utilizando **OCR + IA**, extrair informações relevantes e organizar os dados automaticamente.
+
+**Tecnologias utilizadas:**
+
+- Python
+- Streamlit
+- Pandas
+- OCR
+- APIs de IA
 
 ---
 
 ### 🏭 Automação de Processos de Engenharia
 
-Desenvolvimento de ferramentas para acelerar processos técnicos no setor de engenharia.
+Desenvolvimento de ferramentas para otimizar processos técnicos no setor de engenharia e orçamento.
 
-- Leitura automatizada de listas de materiais  
-- Geração de orçamentos  
-- Integração entre sistemas  
+**Funcionalidades:**
 
-**Resultado:** redução de tempo e menos erros manuais
+- Leitura automatizada de listas de materiais
+- Geração de orçamentos
+- Integração entre sistemas
+- Redução de retrabalho manual
+- Padronização de processos internos
 
----
-
-## 🌐 Portfólio
-
-- 🔗 **Pessoal:** https://matribeiro.tech  
-- 🔗 **Empresa:** https://lypsyos.com  
-- 💻 **GitHub:** https://github.com/zuckalez0-oss?tab=repositories  
+**Resultado:**  
+Mais produtividade, menos erros manuais e maior controle operacional.
 
 ---
 
 ## 🔧 Tech Stack
 
-### ☕ Backend (em evolução)
+### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge)
 
-### 🐍 Automação & Dados
+### Automação e Dados
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ⚙️ Ferramentas & Infra
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### Ferramentas e Infraestrutura
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
+## 📚 Atualmente estudando
+
+- Java
+- Spring Boot
+- APIs RESTful
+- JPA e Hibernate
+- Banco de dados relacional
+- Docker
+- Arquitetura de software
+- Boas práticas de backend
+- Automação com Python
+
+---
+
+## 🌐 Portfólio
+
+- 🔗 **Portfólio pessoal:** https://matribeiro.tech  
+- 🔗 **Empresa:** https://lypsyos.com  
+- 💻 **GitHub:** https://github.com/z1p0l0ck  
+
+---
+
 ## 📫 Contato
 
-Estou aberto a oportunidades, conexões e projetos — principalmente na área de **backend**.
+Estou aberto a conexões, oportunidades e projetos, principalmente nas áreas de **backend, automação e integração de sistemas**.
 
 - 📧 **E-mail:** matheusrds@lypsyos.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-ribeiro-bbb894237  
 
 ---
 
-⭐ Se curtir algum projeto, dá uma estrela lá no GitHub!
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Se algum projeto te interessar, fique à vontade para acompanhar, contribuir ou deixar uma estrela.
+
+</div>
