@@ -8,33 +8,7 @@ Atualmente, estou aprofundando meus estudos em **Java com Spring Boot**, trabalh
 
 Gosto de transformar problemas manuais e repetitivos em sistemas mais eficientes, organizados e escaláveis.
 
----
 
-## 📊 GitHub Status
-
-## 📊 GitHub Status
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zuckalez0-oss&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuckalez0-oss&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🧠 Sobre minha forma de trabalhar
 
@@ -140,6 +114,31 @@ Mais produtividade, menos erros manuais e maior controle operacional.
 - Arquitetura de software
 - Boas práticas de backend
 - Automação com Python
+
+---
+
+
+## 📊 GitHub Status
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zuckalez0-oss&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuckalez0-oss&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
