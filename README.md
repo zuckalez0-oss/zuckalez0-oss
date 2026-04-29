@@ -146,7 +146,7 @@ Mais produtividade, menos erros manuais e maior controle operacional.
 
 - 🔗 **Portfólio pessoal:** https://matribeiro.tech  
 - 🔗 **Empresa:** https://lypsyos.com  
-- 💻 **GitHub:** https://github.com/z1p0l0ck  
+- 💻 **GitHub:** https://github.com/zuckalez0-oss  
 
 ---
 
