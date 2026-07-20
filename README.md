@@ -2,52 +2,44 @@
 
 ## 🚀 Estudante de Engenharia de Software | Backend Developer em Formação
 
-Sou um desenvolvedor em formação com foco em **backend**, apaixonado por construir soluções que resolvem problemas reais por meio de **automação, integração de sistemas e desenvolvimento de APIs**.
+Sou um desenvolvedor em formação com foco em **Backend**, apaixonado por construir soluções que resolvem problemas reais por meio de **automação, integração de sistemas e desenvolvimento de APIs**.
 
-Atualmente, estou aprofundando meus estudos em **Java com Spring Boot**, trabalhando com **APIs RESTful**, **JPA/Hibernate**, persistência de dados e arquitetura de aplicações. Também utilizo **Python** para automações, manipulação de dados, integração com APIs e otimização de fluxos operacionais.
-
-Gosto de transformar problemas manuais e repetitivos em sistemas mais eficientes, organizados e escaláveis.
-
-
-
-## 🧠 Sobre minha forma de trabalhar
-
-Acredito que tecnologia boa é aquela que **economiza tempo, reduz erros e facilita processos**.
-
-Meu foco atual está dividido em dois caminhos principais:
-
-### ☕ Backend com Java e Spring Boot
-
-- Desenvolvimento de APIs RESTful
-- Organização de código em camadas
-- Boas práticas com SOLID
-- JPA/Hibernate
-- Banco de dados relacional
-- Estruturação de sistemas escaláveis e de fácil manutenção
-
-### 🐍 Automação com Python
-
-- Manipulação de planilhas e arquivos
-- Integração com APIs
-- Leitura e tratamento de dados
-- Automação de tarefas repetitivas
-- Uso de IA para acelerar processos operacionais
+Atualmente estudo **Java + Spring Boot**, desenvolvendo **APIs RESTful**, utilizando **JPA/Hibernate**, bancos de dados relacionais e arquitetura de software. Também utilizo **Python** para automações, manipulação de dados, integração com APIs e otimização de processos.
 
 ---
 
-## 🛠️ Projetos em Destaque
+## 🧠 Sobre mim
 
-### 📊 Dashboard Financeiro Inteligente com IA + OCR
+Acredito que tecnologia de qualidade é aquela que **economiza tempo, reduz erros e melhora processos**.
 
-Aplicação voltada para controle financeiro automatizado, com leitura inteligente de comprovantes.
+### ☕ Backend
 
-**Problema:**  
-Controlar despesas manualmente é demorado, repetitivo e sujeito a erros.
+- Java
+- Spring Boot
+- APIs RESTful
+- JPA / Hibernate
+- SQL
+- SOLID
+- Arquitetura em Camadas
 
-**Solução:**  
-Sistema capaz de ler comprovantes utilizando **OCR + IA**, extrair informações relevantes e organizar os dados automaticamente.
+### 🐍 Automação
 
-**Tecnologias utilizadas:**
+- Python
+- Pandas
+- Selenium
+- OCR
+- Integração com APIs
+- IA aplicada à automação
+
+---
+
+# 🛠 Projetos em Destaque
+
+## 📊 Dashboard Financeiro Inteligente
+
+Sistema para controle financeiro utilizando **OCR + Inteligência Artificial** para leitura automática de comprovantes.
+
+### Tecnologias
 
 - Python
 - Streamlit
@@ -57,43 +49,44 @@ Sistema capaz de ler comprovantes utilizando **OCR + IA**, extrair informações
 
 ---
 
-### 🏭 Automação de Processos de Engenharia
+## 🏭 Automação de Processos de Engenharia
 
-Desenvolvimento de ferramentas para otimizar processos técnicos no setor de engenharia e orçamento.
+Ferramentas desenvolvidas para otimizar processos internos de engenharia.
 
-**Funcionalidades:**
+### Funcionalidades
 
-- Leitura automatizada de listas de materiais
-- Geração de orçamentos
+- Leitura automática de listas de materiais
 - Integração entre sistemas
-- Redução de retrabalho manual
-- Padronização de processos internos
-
-**Resultado:**  
-Mais produtividade, menos erros manuais e maior controle operacional.
+- Geração de orçamentos
+- Padronização de processos
+- Redução de retrabalho
 
 ---
 
-## 🔧 Tech Stack
+# 💻 Tech Stack
 
-### Backend
+## Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge)
 
-### Automação e Dados
+---
+
+## Automação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Ferramentas e Infraestrutura
+---
+
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -103,66 +96,62 @@ Mais produtividade, menos erros manuais e maior controle operacional.
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 - Java
 - Spring Boot
 - APIs RESTful
-- JPA e Hibernate
-- Banco de dados relacional
+- JPA/Hibernate
+- SQL
 - Docker
-- Arquitetura de software
-- Boas práticas de backend
+- Arquitetura de Software
+- Clean Code
+- SOLID
 - Automação com Python
 
 ---
 
-
-## 📊 GitHub Status
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zuckalez0-oss&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuckalez0-oss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuckalez0-oss&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuckalez0-oss&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuckalez0-oss&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=zuckalez0-oss&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🌐 Portfólio
+# 🌐 Links
 
-- 🔗 **Portfólio pessoal:** https://matribeiro.tech  
-- 🔗 **Empresa:** https://lypsyos.com  
-- 💻 **GitHub:** https://github.com/zuckalez0-oss  
+<p align="center">
+
+<a href="https://matribeiro.tech" target="_blank">🌎 Portfólio</a> •
+<a href="https://lypsyos.com" target="_blank">🏢 Lypsyos</a> •
+<a href="https://github.com/zuckalez0-oss" target="_blank">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237" target="_blank">💼 LinkedIn</a>
+
+</p>
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-Estou aberto a conexões, oportunidades e projetos, principalmente nas áreas de **backend, automação e integração de sistemas**.
-
-- 📧 **E-mail:** matheusrds@lypsyos.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-ribeiro-bbb894237  
+📧 **E-mail:** [matheusrds@lypsyos.com](mailto:matheusrds@lypsyos.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### ⭐ Obrigado pela visita!
 
-Se algum projeto te interessar, fique à vontade para acompanhar, contribuir ou deixar uma estrela.
+Se algum projeto chamou sua atenção, deixe uma ⭐ nos repositórios e acompanhe minha evolução como desenvolvedor.
 
 </div>
