@@ -111,14 +111,6 @@ Ferramentas desenvolvidas para otimizar processos internos de engenharia.
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zuckalez0-oss&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌐 Links
 
 <p align="center">
